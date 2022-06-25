@@ -1,0 +1,12 @@
+.first{
+    background-color: rgb(0, 255, 247);
+    padding: 1px;
+    font: white;
+}
+h1{
+    font-family: 'Smooch', cursive;
+}
+#About-US{
+    background-color: rgb(0, 255, 247);
+    padding: 15px 400px;
+}
